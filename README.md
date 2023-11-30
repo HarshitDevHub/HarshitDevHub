@@ -4,8 +4,7 @@ I'm Harshit, a dedicated developer with a keen interest in creating robust and s
 
 ## 🚀 About Me
 - 💻 Full Stack Web Developer
-- 🌐 Expertise in MERN Stack and PHP/MySQL
-- 🎓 Computer Science Graduate
+- 🌐 Expertise in MERN Stack and PHP/MySQL/Wordpress
 - 📈 Always eager to learn and explore new technologies
 
 ## 🔧 Technologies & Tools
