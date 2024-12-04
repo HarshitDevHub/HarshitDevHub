@@ -26,6 +26,6 @@ I'm Harshit, a dedicated developer with a keen interest in creating robust and s
 
 ## 📫 Let's Connect!
 
-- Portfolio: [harshit-bhardwaj.vercel.app](https://harshit-bhardwaj.vercel.app)
+- Portfolio: [Click here](https://harshit-bhardwaj.vercel.app)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀✨
